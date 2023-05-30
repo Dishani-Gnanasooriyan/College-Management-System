@@ -1,0 +1,104 @@
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe.config
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.pdb
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.login.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.exe
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.pdb
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.MainForm.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.student.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.teacher.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.user.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dep1.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.fee1.resources
+D:\new\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe.config
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.exe
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csprojResolveAssemblyReference.cache
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dashboard.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dep1.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.fee1.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Form1.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.login.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.MainForm.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Properties.Resources.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.student.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.teacher.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.user.resources
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csproj.GenerateResource.Cache
+D:\new\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe
+D:\new\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.pdb
+D:\new\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.pdb
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.CDMS.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.printing.resources
+C:\Users\Lenovo\Desktop\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.preview.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe.config
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.exe
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.pdb
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.pdb
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dep1.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.fee1.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.CDMS.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.MainForm.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.preview.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.printing.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Properties.Resources.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.student.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.teacher.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.user.resources
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe.config
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.exe
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.pdb
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.pdb
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dep1.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.fee1.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.CDMS.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.MainForm.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.preview.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.printing.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.student.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.teacher.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.user.resources
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.log.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe.config
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.exe
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.pdb
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csprojResolveAssemblyReference.cache
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dep1.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.fee1.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.CDMS.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.log.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.MainForm.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.preview.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.printing.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Properties.Resources.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.student.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.teacher.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.user.resources
+G:\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-9\Desktop\dishani\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.log.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe.config
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.exe
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.pdb
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.exe
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\bin\Debug\CollegeMSystem.pdb
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.dep1.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.fee1.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.CDMS.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.log.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.MainForm.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.preview.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.printing.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.Properties.Resources.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.student.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.teacher.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.user.resources
+C:\Users\ICT-PC-9\Desktop\Level-5\sem 1 prject\0021 - 1st Semester\CollegeMSystem\CollegeMSystem\obj\Debug\CollegeMSystem.csproj.GenerateResource.Cache
